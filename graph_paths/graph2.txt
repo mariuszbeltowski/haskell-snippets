@@ -1,0 +1,9 @@
+0
+u w
+u a 10
+a b 20
+u c 10
+c d 20
+a d 20
+d v 10
+w k 20
